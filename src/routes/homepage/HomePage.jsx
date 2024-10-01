@@ -1,9 +1,9 @@
-import SearchBar from "../../components/searchbar/SearchBar"
+import SearchBar from "../../components/searchBar/searchBar"
 import "./homepage.scss"
 
 function HomePage() {
 	return (
-		<div className="HomePage">
+		<div className="homePage">
 			<div className="textContainer">
 				<div className="wrapper">
 					<h1 className="title">Find Real Estate & Get Your Dream Place</h1>
